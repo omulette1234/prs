@@ -1,5 +1,1 @@
-<<<<<<< ours
-abcde
-=======
 fghij
->>>>>>> theirs
