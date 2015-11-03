@@ -2,4 +2,4 @@
 こんにちは
 Hello
 Guten Morgen
-fugafuga
+hogehoge
